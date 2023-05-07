@@ -22,6 +22,26 @@ The Ghost Keyboard 2 application has a simple user interface with the following 
 - Copy: Copy the selected text.
 - Paste: Paste copied or cut text into the text box.
 
+## New Features
+
+- **Support for Special Characters**: Ghost_Keyboard can now handle special characters such as parentheses, brackets, plus, caret, percent, and tilde. When these characters are encountered in the input string, they will be wrapped in curly braces to ensure that they are properly interpreted by the system.
+
+- **Timer Functionality**: You can now specify a delay before the simulated keystrokes begin by setting a timer in the application. This is useful when you need to set up your application or document before the keystrokes begin.
+
+- **Improved User Interface**: The user interface has been updated with clearer labels and more intuitive controls. The application is now easier to use, even for beginners.
+
+## How to Use Ghost_Keyboard
+
+1. Launch the application and enter the string of characters you want to simulate in the text box.
+
+2. (Optional) Set a delay timer using the dropdown box and "Start" button.
+
+3. Click the "Start" button to begin simulating keystrokes.
+
+4. The application will begin sending keystrokes to the active window. Make sure the window you want to receive the keystrokes is active and in the foreground.
+
+5. To stop the keystrokes, simply close the Ghost_Keyboard application.
+
 ## Functionality
 
 The Ghost Keyboard 2 application uses the SendKeys method to simulate keyboard input. When the user clicks on the Start Writing button, the application will initiate a countdown before starting the writing process. It then calls the SendKeysFunction method which will iterate over each character of the text in the text box and simulate keyboard input. If the text contains special characters such as !, @, #, $, etc., it will be enclosed in braces to avoid any conflicts with the SendKeys method. 
