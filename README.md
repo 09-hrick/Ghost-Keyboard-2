@@ -24,10 +24,10 @@ The Ghost Keyboard 2 application has a simple user interface with the following 
 
 ## Preview
 <p align="center">
-  <img src="https://imgur.com/tayL5Jw" width="250" height="250" alt="image1">
-  <img src="https://imgur.com/kS58Cvr" width="250" height="250" alt="image2">
-  <img src="https://imgur.com/29BfYxU" width="250" height="250" alt="image3">
-  <img src="https://imgur.com/jqAiZnb" width="250" height="250" alt="image4">
+  <img src="https://i.imgur.com/29BfYxU.png" width="250" height="250" alt="image1">
+  <img src="https://i.imgur.com/kS58Cvr.png" width="250" height="250" alt="image2">
+  <img src="https://i.imgur.com/29BfYxU.png" width="250" height="250" alt="image3">
+  <img src="https://i.imgur.com/jqAiZnb.png" width="250" height="250" alt="image4">
 </p>
 
 
