@@ -76,6 +76,5 @@ To install GhostKeyboard V2.0, follow these simple steps:
 2. Double-click the setup file to launch the installation wizard.
 3. Follow the on-screen instructions to complete the installation process.
 
-## Usage
-
-To get started with GhostKeyboard V2.0, launch the application and start configuring your shortcuts and tasks. The interface is intuitive and easy to use, with clear instructions and helpful tooltips.
+## Preview
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/2hpqcGH" data-context="false" ><a href="//imgur.com/a/2hpqcGH">GhostKeyboard V2.0</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
