@@ -24,7 +24,7 @@ The Ghost Keyboard 2 application has a simple user interface with the following 
 
 ## Preview
 <p align="center">
-  <img src="https://i.imgur.com/29BfYxU.png" width="250" height="250" alt="image1">
+  <img src="https://i.imgur.com/GMaN4RE.png" width="250" height="250" alt="image1">
   <img src="https://i.imgur.com/kS58Cvr.png" width="250" height="250" alt="image2">
   <br>
   <img src="https://i.imgur.com/29BfYxU.png" width="250" height="250" alt="image3">
