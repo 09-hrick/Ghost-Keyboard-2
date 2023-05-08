@@ -22,6 +22,15 @@ The Ghost Keyboard 2 application has a simple user interface with the following 
 - Copy: Copy the selected text.
 - Paste: Paste copied or cut text into the text box.
 
+## Preview
+<p align="center">
+  <img src="https://imgur.com/tayL5Jw" width="250" height="250" alt="image1">
+  <img src="https://imgur.com/kS58Cvr" width="250" height="250" alt="image2">
+  <img src="https://imgur.com/29BfYxU" width="250" height="250" alt="image3">
+  <img src="https://imgur.com/jqAiZnb" width="250" height="250" alt="image4">
+</p>
+
+
 ## New Features
 
 - **Support for Special Characters**: Ghost_Keyboard can now handle special characters such as parentheses, brackets, plus, caret, percent, and tilde. When these characters are encountered in the input string, they will be wrapped in curly braces to ensure that they are properly interpreted by the system.
@@ -75,6 +84,3 @@ To install GhostKeyboard V2.0, follow these simple steps:
 1. Download the setup file from the official website.
 2. Double-click the setup file to launch the installation wizard.
 3. Follow the on-screen instructions to complete the installation process.
-
-## Preview
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/2hpqcGH" data-context="false" ><a href="//imgur.com/a/2hpqcGH">GhostKeyboard V2.0</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
