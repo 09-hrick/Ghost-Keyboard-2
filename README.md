@@ -80,7 +80,7 @@ Ghost Keyboard 2 uses the following dependencies:
 
 ## Installation
 
-To install GhostKeyboard V2.0, follow these simple steps:
+To install GhostKeyboard V2.1, follow these simple steps:
 
 1. Download the setup file from the official website.
 2. Double-click the setup file to launch the installation wizard.
