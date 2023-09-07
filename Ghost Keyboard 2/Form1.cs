@@ -233,11 +233,11 @@ namespace Ghost_Keyboard_2
 
         private void zoomInToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if (currentFontSize < defaultFontSize +1 )
-            {
+            //if (currentFontSize < defaultFontSize +1 )
+            //{
                 currentFontSize++;
                 richTextBox1.Font = new Font(richTextBox1.Font.FontFamily, currentFontSize);
-            }
+            //}
         }
 
         private void restoreDefaultToolStripMenuItem_Click(object sender, EventArgs e)
